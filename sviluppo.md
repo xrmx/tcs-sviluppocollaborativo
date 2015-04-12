@@ -137,9 +137,7 @@ FYI Roma non è stata fatta in un giorno
 - Step per riprodurre
 
 
-## Feature requests
-
-Senza patch o analisi approfondita
+## Feature requests senza patch
 
 (img/umarell.jpg)
 
